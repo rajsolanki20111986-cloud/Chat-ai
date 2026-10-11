@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chat AI</string>
+    <string name="accessibility_description">Allows Chat AI to read visible interface text and perform user-requested taps when enabled by the device owner.</string>
+</resources>
